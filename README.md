@@ -1,4 +1,4 @@
 # ImranJamshaid-demo
 This is my Git Repository.
 <br>
-Arthor - Imran Jamshaid
+Arthor - Imran (Minhaj University Lahore)
